@@ -33,7 +33,7 @@ In the above Sharpe Ratio formula, we see that Standard Deviation and the ratio 
 
 ### The SD Formula
 
-$ \sigma =  \sqrt{\frac{1}{N}  \sum_{i=1}^N  | x_{i}  - \mu  | ^{2} )} $
+$\sigma = \sqrt{\frac{1}{N} \sum_{i=1}^N | x_{i} - \mu | ^{2})}$
 
 - x is a value in the data set
 - μ is the mean of the data set, and 
